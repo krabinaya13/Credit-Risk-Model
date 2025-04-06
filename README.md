@@ -1,0 +1,3 @@
+# Credit-Risk-Model
+Data science projects
+Credit risk modeling is the place where data science and fintech meet. It is one of the most important activities conducted in a bank, with the most attention since the recession. At present, it is the only critical component of risk management in financial institutions.By accurately assessing the likelihood of default and potential losses, lenders can make informed decisions that balance risk and profitability. The choice of model and methodology depends on the specific context, data availability, and regulatory requirements. This project covers from preprocessing, through probability of default (PD), loss given default (LGD) and exposure at default (EAD) modeling, all the way to calculating expected loss (EL).
